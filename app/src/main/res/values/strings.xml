@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Study Snap</string>
+    <string name="listIsEmpty">List is Empty</string>
+    <string name="isFavourite">Favourite</string>
+    <string name="newTask">NewNotes</string>
+    <string name="taskTitle">Title</string>
+    <string name="description">Description</string>
+    <string name="addToFavourite">Add to Favourite</string>
+    <string name="about">About</string>
+    <string name="tasks">Note</string>
+    <string name="editTask">Edit Note</string>
+    <string name="enterName">Name</string>
+    <string name="enterTitle">Tile</string>
+    <string name="editGroup">Edit Group</string>
+    <string name="name">Date</string>
+    <string name="createItemQuestion">Question?</string>
+    <string name="task">Note</string>
+    <string name="group">Group</string>
+    <string name="set">SetUp</string>
+    <string name="newGroup">Add Notes</string>
+</resources>
